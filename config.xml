@@ -18,7 +18,7 @@
   </author>
   <icon src="vel5.png" />
     
-    <gap:plugin name="cordova-plugin-whitelist" source="npm" version="~1" />
+    <gap:plugin name="cordova-plugin-whitelist" source="npm"  />
     <allow-intent href="http://*/*" />
 <allow-intent href="https://*/*" />
     
